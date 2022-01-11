@@ -1,5 +1,5 @@
 some text in file A
 
 Some changes to someFileA.
-
+Some text to make enough commit that will visualised in the git graph.
 Okay
