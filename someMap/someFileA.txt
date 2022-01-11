@@ -1,2 +1,5 @@
 some text in file A
+
+Some changes to someFileA.
+
 Okay
